@@ -1,0 +1,7 @@
+.adk/*
+*.venv
+*.cpython*
+.db
+__pycache__/
+*.pyc
+
